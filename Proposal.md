@@ -1,7 +1,9 @@
 # Major Project Proposal for CompSci 30
 
 ## Description
-An extremely basic clone of Nidhogg; a 2D Side Scrolling Sword Fighting Game.
+An extremely basic clone of Nidhogg, 
+
+a 2D Side Scrolling Sword Fighting Game.
 
 http://store.steampowered.com/app/94400/ 
 
