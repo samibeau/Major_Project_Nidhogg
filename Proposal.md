@@ -1,7 +1,8 @@
 # Major Project Proposal for CompSci 30
 
 ## Description
-An extremely basic clone of Nidhogg. // 
+An extremely basic clone of Nidhogg.
+
 http://store.steampowered.com/app/94400/ 
 
 ## Must Have's List
